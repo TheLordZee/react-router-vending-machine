@@ -1,0 +1,10 @@
+.Navbar a.Navbar-link {
+    margin: 3rem;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: gray;
+}
+
+.Navbar a.active {
+    color: black;
+}
